@@ -17,11 +17,12 @@
 
 *After this lesson, students will be able to:*
 
-1. Understand how logistic regression is similar to and different from linear regression.
-2. Calculate odds and odds ratio.
-3. Understand how to interpret the coefficients of logistic regression.
-4. Fit and generate predictions from a logistic regression model.
-5. Know the benefits of logistic regression as a classifier.
+1. Distinguish between regression and classification problems.
+2. Understand how logistic regression is similar to and different from linear regression.
+3. Understand the math behind the logit link function (and logistic function).
+4. Plot the logistic regression for predicting admittance from GPA.
+5. Understand how to interpret the coefficients of logistic regression.
+6. Know the benefits of logistic regression as a classifier.
 
 ---
 
