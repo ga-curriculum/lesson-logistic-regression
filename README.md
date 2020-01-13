@@ -7,7 +7,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Introduction to Classification Slides | [Link](./intro-to-classification.pdf)|
-| Lesson | Logistic Regression Jupyter Notebook | [Link](./logistic-regression-starter-code.ipynb)|
+| Lesson | Logistic Regression Jupyter Notebook | [Link](./starter-code.ipynb)|
 
 > **Dataset description:** UCLA Graduate Admissions Data
 
@@ -19,8 +19,8 @@
 
 1. Distinguish between regression and classification problems.
 2. Understand how logistic regression is similar to and different from linear regression.
-3. Understand the math behind the logit link function (and logistic function).
-4. Plot the logistic regression for predicting admittance from GPA.
+3. Plot the logistic regression for predicting admittance from GPA.
+4. Fit, generate predictions from, and evaluate a logistic regression model in `sklearn`.
 5. Understand how to interpret the coefficients of logistic regression.
 6. Know the benefits of logistic regression as a classifier.
 
