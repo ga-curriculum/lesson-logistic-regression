@@ -19,10 +19,9 @@
 
 1. Distinguish between regression and classification problems.
 2. Understand how logistic regression is similar to and different from linear regression.
-3. Plot the logistic regression for predicting admittance from GPA.
-4. Fit, generate predictions from, and evaluate a logistic regression model in `sklearn`.
-5. Understand how to interpret the coefficients of logistic regression.
-6. Know the benefits of logistic regression as a classifier.
+3. Fit, generate predictions from, and evaluate a logistic regression model in `sklearn`.
+4. Understand how to interpret the coefficients of logistic regression.
+5. Know the benefits of logistic regression as a classifier.
 
 ---
 
