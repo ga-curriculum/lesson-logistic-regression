@@ -6,8 +6,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Introduction to Classification Slides | [Link](./logistic-regression.pdf)|
-| Lesson | Logistic Regression Jupyter Notebook | [Link](./starter-code.ipynb)|
+| Lesson | Introduction to Classification Slides | [Link](./Logistic\ Regression.ipynb)|
+| Lesson | Logistic Regression Jupyter Notebook | [Link](./log-reg-starter-code.ipynb)|
 
 > **Dataset description:** UCLA Graduate Admissions Data
 
